@@ -1,0 +1,22 @@
+{
+  "wheel_id": 875,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-116",
+  "project": "property-management-sunshine-coast-cost-guide-9bfaf2b79d1ec6ec0",
+  "parent_t1_ref": "propertymanagersunshinecoast-157",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property management sunshine coast cost guide",
+  "intended_url": "https://aumedia.neocities.org/property-management-sunshine-coast-cost-guide-9bfaf2b79d1ec6ec0/",
+  "tier": "T2",
+  "writeback_nonce": "5e75eae701e070ba",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/propertymanagersunshinecoast-157/",
+      "anchor": "this property management sunshine coast before you start resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
